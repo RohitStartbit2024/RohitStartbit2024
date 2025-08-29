@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software developer with around 2 years of experience in .NET (C#), React, Next.js, and Tailwind CSS, building scalable APIs ⚙️ and modern, responsive web interfaces 💻. I work with both MS SQL Server and MySQL, handling everything from database design to performance optimization.<br><br>I enjoy working across the stack, from backend architecture to frontend user experience, and I focus on writing clean, maintainable, and efficient code. I’m passionate about continuous learning-picking up new tools, techniques, and best practices every day to refine my craft 🚀.
+I’m a software developer with around 2 years of experience in .NET (C#), React, Next.js, and Tailwind CSS, building scalable APIs ⚙️ and modern, responsive web interfaces 💻. I work with both MS SQL Server and MySQL, handling everything from database design to performance optimization.<br><br>I enjoy working across the stack, from backend architecture to frontend user experience, and I focus on writing clean, maintainable, and efficient code. I’m passionate about continuous learning, picking up new tools, techniques, and best practices every day to refine my craft 🚀.
 
 
 ## 🌐 Socials:
